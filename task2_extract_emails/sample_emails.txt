@@ -1,0 +1,21 @@
+Hello team,
+
+Please reach out to the following contacts:
+- Project Manager: alice.johnson@company.com
+- Developer Lead:  bob_smith123@dev.org
+- QA Engineer:     carol.white@testing.net
+- Designer:        dave@ui-ux.io
+- HR Department:   hr-support@corporate.co.uk
+
+Invalid addresses (should be ignored):
+- not-an-email
+- missing@
+- @nodomain.com
+- double@@sign.com
+
+Feel free to CC finance@accounts.example.com for billing queries.
+For urgent issues contact: support+urgent@helpdesk.org
+
+Regards,
+The Admin Team
+admin@company.com

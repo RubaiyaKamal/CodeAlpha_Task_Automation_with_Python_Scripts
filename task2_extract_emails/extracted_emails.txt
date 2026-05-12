@@ -1,0 +1,8 @@
+admin@company.com
+alice.johnson@company.com
+bob_smith123@dev.org
+carol.white@testing.net
+dave@ui-ux.io
+finance@accounts.example.com
+hr-support@corporate.co.uk
+support+urgent@helpdesk.org
