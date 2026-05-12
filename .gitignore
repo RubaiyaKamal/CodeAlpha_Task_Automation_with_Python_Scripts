@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output files
+task1_move_images/images_output/
+task2_extract_emails/extracted_emails.txt
+task3_scrape_title/scraped_title.txt

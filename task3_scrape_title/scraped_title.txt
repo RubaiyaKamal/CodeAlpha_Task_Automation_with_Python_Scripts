@@ -1,2 +1,0 @@
-URL  : https://books.toscrape.com/
-Title: All products | Books to Scrape - Sandbox
